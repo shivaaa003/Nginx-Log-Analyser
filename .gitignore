@@ -1,0 +1,9 @@
+# macOS system files
+.DS_Store
+
+# Logs
+*.log
+
+# Temporary files
+*.swp
+*.tmp
